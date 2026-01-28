@@ -1,0 +1,27 @@
+numpy
+opencv-python
+pymongo
+
+# Face Recognition
+deepface
+mtcnn
+tensorflow
+keras
+
+# Object Detection
+ultralytics
+
+# Voice Recognition & Speaker Verification
+SpeechRecognition
+resemblyzer
+sounddevice
+scipy
+librosa
+
+# App / Screen Monitoring
+pygetwindow
+pyautogui
+
+# Evaluation & Results
+scikit-learn
+matplotlib
